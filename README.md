@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is vishal krishna
 ![](https://vishalkrishna8.github.io/github-profile-readme-generator/images/banner.png)
-Frontend developer
 
 Skills: REACT / JS / HTML / CSS
 
