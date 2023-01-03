@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/121739011/210300077-3696c606-e48b-45e1-8421-8aa67199501c.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-816&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-816" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkrishna8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrishna8" /> </p>
 
 
 Skills:  REACT / JS / HTML / CSS
