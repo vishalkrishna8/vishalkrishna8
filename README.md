@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is vishal krishna
 ![](https://vishalkrishna8.github.io/github-profile-readme-generator/images/banner.png)
-<img src='https://images.app.goo.gl/xi3YbdEzRhg3J6CFA' alt='github' height='40' width='80'>]
+<img src='https://images.app.goo.gl/xi3YbdEzRhg3J6CFA' alt='react logo' height='40' width='80'>]
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
