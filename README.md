@@ -2,6 +2,7 @@
 ![](https://vishalkrishna8.github.io/github-profile-readme-generator/images/banner.png)
 
 ![image](https://user-images.githubusercontent.com/121739011/210300077-3696c606-e48b-45e1-8421-8aa67199501c.png)
+![image](https://user-images.githubusercontent.com/121739011/210300252-4b5a880b-ede1-4449-ba2b-6e213360010f.png)
 
 
 Skills:  REACT / JS / HTML / CSS
