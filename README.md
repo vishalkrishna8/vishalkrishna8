@@ -1,7 +1,12 @@
 ### Hi there 👋, my name is vishal krishna
 ![](https://vishalkrishna8.github.io/github-profile-readme-generator/images/banner.png)
 
-![image](https://user-images.githubusercontent.com/121739011/210300077-3696c606-e48b-45e1-8421-8aa67199501c.png)
+
+
+![image](https://user-images.githubusercontent.com/121739011/210302647-a2e3d211-7659-477d-bcb6-fb18d98a6ed1.png)
+
+
+
 
 
 
