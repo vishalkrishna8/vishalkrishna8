@@ -6,6 +6,9 @@
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on ReactJs 
+- 🌱 I’m currently learning Python 
+- 💬 Ask me about REACT / JAVASCRIPT / NODE.JS 
+- 📫 How to reach me: shrevishkrish@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishalkrishna8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishalkrishna8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishal.m.s.d/)  
