@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkrishna8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrishna8" /> </p>
 <img align="centre" alt="dev" width="1200" height="250" 
-  src="https://images.app.goo.gl/1mPXUbLK2VTTP9VCA">
+  src="https://images.app.goo.gl/w9wBJryY6BfvqHcU7"
+>
 
 
 Skills:  REACT / JS / HTML / CSS
