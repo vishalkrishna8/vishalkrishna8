@@ -17,8 +17,6 @@ Skills:  REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkrishna8)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkrishna8&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vishalkrishna8)  
 
  
