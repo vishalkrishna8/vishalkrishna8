@@ -16,7 +16,6 @@ Skills:  REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/vishalkrishna8) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkrishna8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vishalkrishna8)  
 
