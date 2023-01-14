@@ -1,4 +1,5 @@
-### welcome, my name is vishal krishna
+### welcome
+I am vishal krishna
 
 I am a web developer, love learning new technologies and contributing to open source.
 
