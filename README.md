@@ -41,27 +41,61 @@ alt="github" height="30">(https://www.github.com/vishalkrishna8)
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-![image]({BadgeURLHere})
+![image](   )
 
+![image](   )
 
+![image](   )
 
+![image](   )
 
+![image](   )
 
+![image](   )
 
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
+
+![image](   )
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishalkrishna8) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishalkrishna8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishal.m.s.d/) 
 
