@@ -13,6 +13,18 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: shrevishkrish@gmail.com 
 
 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram " height="30">](https://www.instagram.com/vishal.m.s.d/)
+
+
+<img src="{BadgeURLHere}" />
+
+<img src="{BadgeURLHere}" />
+
+<img src="{BadgeURLHere}" />
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishalkrishna8) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishalkrishna8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishal.m.s.d/) 
 
 ![Profile views](https://gpvc.arturio.dev/vishalkrishna8) 
