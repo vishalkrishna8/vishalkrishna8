@@ -37,9 +37,9 @@ alt="github" height="30">(https://www.github.com/vishalkrishna8)
 
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-![image]({BadgeURLHere})
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
-![image]({BadgeURLHere})
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![image]({BadgeURLHere})
 
