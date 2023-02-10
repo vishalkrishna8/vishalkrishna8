@@ -12,7 +12,7 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: shrevishkrish@gmail.com 
 
 
-# Connect👥
+# Connect 👥
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">](https://www.instagram.com/vishal.m.s.d/) ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
