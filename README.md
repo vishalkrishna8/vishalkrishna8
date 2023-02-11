@@ -51,3 +51,5 @@ I am a web developer, love learning new technologies and contributing to open so
 
 ![Profile views](https://gpvc.arturio.dev/vishalkrishna8)  ![count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vishalkrishna8}1212%2Fhit-counter) 
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vishalkrishna8)
+
