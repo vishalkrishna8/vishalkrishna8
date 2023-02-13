@@ -1,6 +1,6 @@
 # Hello👋, I'm vishal
 
-I am a web developer, love learning new technologies and contributing to open source.
+I am a freelance web developer, love learning new technologies and contributing to open source.
 
 
 - 🔭 I’m currently working on something cool 
@@ -12,7 +12,7 @@ I am a web developer, love learning new technologies and contributing to open so
 # Connect 👥
 
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">](https://www.instagram.com/vishal.m.s.d/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">](https://www.linkedin.com/in/vishalkrishna8/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">](https://www.linkedin.com/in/vishalkrishna8/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">](https://www.instagram.com/vishal.m.s.d/) 
 
 
 # Languages 👩‍💻
@@ -35,5 +35,8 @@ I am a web developer, love learning new technologies and contributing to open so
 
 ![Profile views](https://gpvc.arturio.dev/vishalkrishna8) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=vishalkrishna8)
 
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username={vishalkrishna8}&theme={tokyo-night}) 
+
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={tokyo-night}) 
