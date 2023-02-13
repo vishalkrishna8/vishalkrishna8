@@ -35,7 +35,4 @@ I am a freelance web developer, love learning new technologies and contributing 
 ![Profile views](https://gpvc.arturio.dev/vishalkrishna8) 
 
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username={vishalkrishna8}&theme={tokyo-night}) 
-
-
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={tokyo-night}) 
