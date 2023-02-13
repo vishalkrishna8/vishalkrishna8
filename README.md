@@ -2,9 +2,8 @@
 
 I am a freelance web developer, love learning new technologies and contributing to open source.
 
-
-- 🔭 I’m currently working on something cool 
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning ADVANCED PYTHON
+- 🔭 I’m looking to collaborate on any good project on fintech
 - 💬 Ask me about REACT / JAVASCRIPT / NODE.JS 
 - 📫 How to reach me: vishalkrishna108@gmail.com 
 
