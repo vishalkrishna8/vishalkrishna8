@@ -37,4 +37,4 @@ I am a freelance web developer, love learning new technologies and contributing 
 
 
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={tokyo-night}) 
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={grovbox}) 
