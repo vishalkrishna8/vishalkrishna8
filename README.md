@@ -15,7 +15,8 @@ I am a freelance web developer, love learning new technologies and contributing 
 [![Linkedin Badge](https://img.shields.io/badge/-vishalkrishna8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalkrishna8/)](https://www.linkedin.com/in/vishalkrishna8/)  [![Instagram Badge](https://img.shields.io/badge/-vishal.m.s.d-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishal.m.s.d/)](https://www.instagram.com/vishal.m.s.d/)
 
 
-# Languages 👩‍💻
+<h3> Languages 💻 </h3> 
+
 
 
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
