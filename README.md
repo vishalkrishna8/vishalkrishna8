@@ -37,4 +37,9 @@ I am a freelance web developer, love learning new technologies and contributing 
 
 
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={grovbox}) 
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user={vishalkrishna8}&theme={grovbox})
+<div align="center">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=dark" alt="vishalkrishna8" /></p>
+
+  </div>
