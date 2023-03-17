@@ -40,4 +40,3 @@ I am a freelance web developer, love learning new technologies and contributing 
 
 </div>
 
- ![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) 
