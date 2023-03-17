@@ -36,7 +36,7 @@ I am a freelance web developer, love learning new technologies and contributing 
 
 <div align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=dark" alt="vishalkrishna8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>
 
 </div>
 
