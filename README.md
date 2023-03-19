@@ -2,7 +2,7 @@
 I am a freelance web developer, love learning new technologies and contributing to open source.
 
 - 🌱 I’m currently learning : **ADVANCED PYTHON**
-- 🔭 I’m looking to collaborate on any good project on fintech
+- 🔭 I’m looking to collaborate on any good project on **Fintech**
 - 💬 Ask me about : **JAVASCRIPT / PYTHON**
 - 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-vishalkrishna108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalkrishna108@gmail.com)](mailto:vishalkrishna108@gmail.com)
 
