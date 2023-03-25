@@ -13,6 +13,8 @@ I am a freelance web developer, love learning new technologies and contributing 
 <h3> Connect 👥 </h3> 
 
 
+<a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-vishalkrishna8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalkrishna8/)](https://www.linkedin.com/in/vishalkrishna8/)
 [![Instagram Badge](https://img.shields.io/badge/-vishal.m.s.d-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishal.m.s.d/)](https://www.instagram.com/vishal.m.s.d/)
 
