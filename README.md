@@ -1,5 +1,11 @@
-<h2> Hi, I'm Vishal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-I am a freelance web developer, love learning new technologies and contributing to open source.
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Web+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+ 
+Love learning new technologies and contributing to open source.
 
 - 🌱 I’m currently learning : **ADVANCED PYTHON**
 - 🔭 I’m looking to collaborate on any good project on **Fintech**
