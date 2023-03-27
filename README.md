@@ -13,8 +13,7 @@ Love learning new technologies and contributing to open source.
 - 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-vishalkrishna108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalkrishna108@gmail.com)](mailto:vishalkrishna108@gmail.com)
 
 
- ![Profile views](https://gpvc.arturio.dev/vishalkrishna8) 
-
+ 
 
 **<p align="center"> Connect 👥 </p>**
 <p align="center ">
@@ -47,3 +46,6 @@ Love learning new technologies and contributing to open source.
 
 </div>
 
+
+
+<p align="center"><img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"></p>
