@@ -17,8 +17,8 @@ Love learning new technologies and contributing to open source.
 
 **<p align="center"> Connect 👥 </p>**
 <p align="center ">
-<a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://www.instagram.com/vishal.m.s.d"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>          <a href="https://www.github.com/vishalkrishna8" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></p>
-
+<a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.github.com/vishalkrishna8" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/vishal.m.s.d"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </p>       
 
 **<p align="left"> Languages 💻</p>**
 
@@ -49,3 +49,6 @@ Love learning new technologies and contributing to open source.
 
 
 <p align="center"><img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+**<p align="center"> Thank     you    for   visiting   😊 </p>**
