@@ -9,7 +9,7 @@ Love learning new technologies and contributing to open source.
 
 - 🌱 I’m currently learning : **ADVANCED PYTHON**
 - 🔭 I’m looking to collaborate on any good project on **Fintech**
-- 💬 Ask me about : **JAVASCRIPT / PYTHON**
+- 💬 Ask me about : **JAVASCRIPT / React **
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/vishalkrishna8?tab=repositories) -->
 
 
