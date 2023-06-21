@@ -34,7 +34,7 @@
 
 
 
-# <p align="center"> 📱 Let's Connect 👥 </p>
+**<p align="center"> 👥 Let's Connect 💻 </p>**
 <p align="center ">
 <a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:vishalkrishna108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <!-- <a href="https://www.github.com/vishalkrishna8" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -42,7 +42,7 @@
 
 
 
-# <p align="center">  💻 Tech stack  🛠 </p>
+**<p align="center">  💻 Tech stack 🛠 </p>**
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> -->
@@ -62,7 +62,8 @@
 
 
 
-<!-- <p align="center"> <img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> -->
+<!-- <p align="center">
+<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
