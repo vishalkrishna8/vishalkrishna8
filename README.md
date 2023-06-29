@@ -51,18 +51,18 @@
 
 
 <div align="center">
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>
+ <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  -->
 
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=react&hide_border=false" alt="GitHub Streak" width="500"/>  -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
 
 
 </div> 
 
 
 
-<p align="center">
-<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> 
+<!-- <p align="center">
+<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p>  -->
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalmrishna8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrishna8" /> </p>
 
