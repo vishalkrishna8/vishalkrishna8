@@ -61,8 +61,8 @@
 
 
 
-<p align="center">
-<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> 
+<!-- <p align="center">
+<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> -->
 
  <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalmrishna8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrishna8" /> </p>  -->
 
