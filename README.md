@@ -38,7 +38,16 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 I thrive on continuous learning, staying updated with the latest technologies and trend. Collaboration is at the core of my process, working closely with desiners and stakeholders to create visually stunning and intutive websites. </p>
 <p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
 
-
+<p align="left">
+         <a href="https://github.com/FahimFBA?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vishalkrishna8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishalkrishna8?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1">
+        <!-- <img alt="youtube subscribers (International Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@FahimAmin">
+         <img alt="youtube views (International Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+   </p> -->
 
 **<p align="center"> 👥 Let's Connect 💻 </p>**
 <p align="center ">
