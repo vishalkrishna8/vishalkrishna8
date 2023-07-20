@@ -35,8 +35,8 @@
 
 With 2+ years of experience in the field, have solid foundation in HTML, CSS, JavaScript, TypeScript and ReactJS, I transform imaginative designs into functional websites.
 
-I thrive on continuous learning, staying updated with the latest technologies and trend. Collaboration is at the core of my process, working closely with desiners and stakeholders to create visually stunning and intutive websites.
-I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
+I thrive on continuous learning, staying updated with the latest technologies and trend. Collaboration is at the core of my process, working closely with desiners and stakeholders to create visually stunning and intutive websites. </p>
+<p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
 
 
 
