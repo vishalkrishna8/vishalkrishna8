@@ -65,10 +65,10 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 
 
 <div align="center">
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  -->
 
 
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
 -->
 
 </div> 
