@@ -31,13 +31,17 @@
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/vishalkrishna8?tab=repositories) 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/vishalkrishna8?tab=repositories) -->
 
+
+<details>
+ <summary><h3>👨‍💻 About me </h3></summary>
+
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
 
 With 2+ years of experience in the field, have solid foundation in HTML, CSS, JavaScript, TypeScript and ReactJS, I transform imaginative designs into functional websites.
 
 <!-- I thrive on continuous learning, staying updated with the latest technologies and trend. Collaboration is at the core of my process, working closely with desiners and stakeholders to create visually stunning and intutive websites. </p> -->
 
-<p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
+<p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p> </details>
 
 <div>
         <!-- <a href="https://github.com/FahimFBA?tab=followers"> -->
