@@ -33,7 +33,7 @@
 
 
 <details>
-  <p align="center"> <summary><h2>👨‍💻 About me </h2></summary> </p>
+  <summary><h2 align="center">👨‍💻 About me </h2></summary>
 
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
 
