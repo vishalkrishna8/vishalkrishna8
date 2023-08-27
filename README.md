@@ -31,7 +31,7 @@
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/vishalkrishna8?tab=repositories) 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/vishalkrishna8?tab=repositories) -->
 
-<h1>About me </h1>
+<h1>👨‍💻 About me </h1>
 <details>
   
   <summary><h2>⬇️Click here⬇️ </h2></summary>
