@@ -34,7 +34,7 @@
 
 <details>
   
-  <summary><h1>👨‍💻 About me ▶️ </h1> </summary>
+  <summary><h1> About me ▶️ </h1> </summary>
 
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
 
@@ -66,13 +66,13 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="  https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"> <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </div> </details>
 
-#### 📝 Blog posts:
+<!-- #### 📝 Blog posts:
 
 1. [What’s the point of promises?](https://minal-vaity95.medium.com/whats-the-point-of-promises-a4184e169e01)
 2. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
 3. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
 4. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
-5. [Cool JavaScript Tricks you might not know](https://minal-vaity95.medium.com/cool-javascript-tricks-you-might-not-know-7361c2992d7d) 
+5. [Cool JavaScript Tricks you might not know](https://minal-vaity95.medium.com/cool-javascript-tricks-you-might-not-know-7361c2992d7d)  -->
 
 
 <div align="center">
