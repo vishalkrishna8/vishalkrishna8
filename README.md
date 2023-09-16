@@ -1,21 +1,10 @@
-
-  <a href="https://github.com/vishalkrishna8" title="portfolio">
+<a href="https://github.com/vishalkrishna8" title="portfolio">
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   
-  
-  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=vishalkrishna8&text=Hi+I'm+Vishal&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
+<img src="https://github-cool-covers.vercel.app/api/get-cover?username=vishalkrishna8&text=Hi+I'm+Vishal&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
-  
-  
-  
- <!-- <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
   
@@ -30,18 +19,13 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 <p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p> 
 
 <div>
-        <!-- <a href="https://github.com/vishalkrishna8?tab=followers"> -->
-         <!-- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vishalkrishna8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
-      <!-- <a href="https://github.com/vishalkrishna8?tab=repositories&sort=stargazers"> -->
-        <!-- <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishalkrishna8?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+        
+        
  <!-- 👥 Let's Connect 👉 -->
 <a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:vishalkrishna108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@vishalkrishna8" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <!-- <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-%230077B5?style=for-the-badge&logo=hasnode&logoColor=white" target="_blank"></a> -->
    </div>
-
-
-
 
 
 **<p align="left">  💻 Tech stack 🛠 </p>**
@@ -62,20 +46,9 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  
-
-
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
--->
-
 </div> 
 
 
-
-<!-- <p align="center">
-<img align="center" src="https://gpvc.arturio.dev/vishalkrishna8"> </p> -->
-
- <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalmrishna8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrishna8" /> </p>  -->
- 
 [![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://vishalkrishna.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
