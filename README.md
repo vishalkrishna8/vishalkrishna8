@@ -8,7 +8,8 @@
 
 <details>
   
-  <summary> About me ⬇️ </summary>
+  <summary> Click here ▶️ </summary>
+  <h2> About Me </h2>
 
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
 
