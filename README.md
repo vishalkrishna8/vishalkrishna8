@@ -8,7 +8,7 @@
 
 <details>
   
-  <summary> <img src="https://img.shields.io/badge/More-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White"></summary>
+  <summary> More ⬇️ ⬇️ </summary>
   <h2> About me </h2>
 
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
