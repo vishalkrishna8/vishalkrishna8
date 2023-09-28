@@ -32,8 +32,7 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
   <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> 
   
 
-  <!-- <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-style=for-the-badge&logo=hasnode&logoColor=white" target="_blank"></a> -->
-   </div>
+  
 
 
 <!-- **<p align="left">  💻 Tech stack 🛠 </p>** -->
