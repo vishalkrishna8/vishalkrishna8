@@ -4,11 +4,10 @@
 <img src="https://github-cool-covers.vercel.app/api/get-cover?username=vishalkrishna8&text=Hi+I'm+Vishal&fontFamily='Rubik+Maze'&pattern='p8'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 [![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
   
