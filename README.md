@@ -6,6 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+[![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
+
+
 <details>
   
   <summary> More ⬇️ ⬇️ </summary>
