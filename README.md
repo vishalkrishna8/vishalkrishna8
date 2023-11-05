@@ -51,15 +51,16 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 4. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
 5. [Cool JavaScript Tricks you might not know](https://minal-vaity95.medium.com/cool-javascript-tricks-you-might-not-know-7361c2992d7d)  -->
 
-[![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  
 </div> 
+
+[![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
 
 
 <!-- [![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://vishalkrishna.vercel.app/) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting 😊;&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p>
