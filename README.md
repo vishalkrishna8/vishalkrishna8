@@ -5,9 +5,7 @@
 </a>
 
 
-[![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <details>
   
@@ -53,6 +51,7 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 4. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
 5. [Cool JavaScript Tricks you might not know](https://minal-vaity95.medium.com/cool-javascript-tricks-you-might-not-know-7361c2992d7d)  -->
 
+[![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  
