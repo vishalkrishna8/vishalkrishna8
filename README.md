@@ -11,8 +11,8 @@
 
 <details>
   
-  <summary> More ⬇️ ⬇️ </summary>
-  <h2> About me </h2>
+  <summary>   ABOUT ME </summary>
+  
 
 <p> Hello, I'am Vishal Krishna an enthusiastic front-end developer speciallizing in creating captivating and user-friendly web experiences.
 
@@ -32,7 +32,7 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 <a href="https://twitter.com/vishalone7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" /></a>
 <!-- <a href="https://medium.com/@vishalkrishna8"  target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" target="_blank"></a>
    <a href="https://stackoverflow.com/users/21353684/vishal-krishna" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" target="_blank"></a> 
-  <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> -->
+  <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> --> </details>
   
 
   
@@ -63,4 +63,4 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p> </details>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p>
