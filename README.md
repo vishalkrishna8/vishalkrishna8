@@ -7,6 +7,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
+  
 <details>
   
   <summary>   ABOUT ME </summary>
@@ -33,7 +34,13 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
   <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> --> </details>
   
 
-  
+[<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White" height="40">](https://vishal-krishna.vercel.app/)
+<a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank"></a> 
+<a href = "mailto:vishalkrishna108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
+<a href="https://twitter.com/vishalone7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" /></a>
+<!-- <a href="https://medium.com/@vishalkrishna8"  target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" target="_blank"></a>
+   <a href="https://stackoverflow.com/users/21353684/vishal-krishna" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" target="_blank"></a> 
+  <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> -->
 
 
 <!-- **<p align="left">  💻 Tech stack 🛠 </p>** -->
