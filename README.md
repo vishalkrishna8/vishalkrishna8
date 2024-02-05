@@ -1,7 +1,10 @@
+
+**<p align="center">[![committers.top badge](https://user-badge.committers.top/india_private/vishalkrishna8.svg)](https://user-badge.committers.top/india_private/vishalkrishna8) </p>**
+
 <a href="https://github.com/vishalkrishna8" title="portfolio">
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   
-<img src="https://github-cool-covers.vercel.app/api/get-cover?username=vishalkrishna8&text=Hi+I'm+Vishal&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
+<img src="https://github-cool-covers.vercel.app/api/get-cover?username=vishalkrishna8&text=Hi+I'm+Vishal&fontFamily='Rubik+Maze'&pattern='p8'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
 
 
@@ -64,6 +67,7 @@ With 2+ years of experience in the field, have solid foundation in HTML, CSS, Ja
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkrishna8&theme=white" alt="vishalkrishna8" /></p>  
 </div> 
+
 
 [![An image of @vishalkrishna8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkrishna8)](https://holopin.io/@vishalkrishna8)
 
