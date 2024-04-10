@@ -29,7 +29,7 @@ I thrive on continuous learning, staying updated with the latest technologies an
 <div>
         
         
- 👥 Let's Connect 👉 
+ 👥 Let's Connect 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White" height="40">](https://vishal-krishna.vercel.app/)
 <a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank"></a> 
 <a href = "mailto:vishalkrishna108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
@@ -38,7 +38,7 @@ I thrive on continuous learning, staying updated with the latest technologies an
    
   <a href="https://hashnode.com/@vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%230077B5?style=for-the-badge&logo=hashnode&logoColor=white" height="40" target="_blank"></a> </details> -->
   
- **👥 Let's Connect 👉**
+ **👥 Let's Connect**
 
    [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White" height="40">](https://vishal-krishna.vercel.app/)
 <a href="https://www.linkedin.com/in/vishalkrishna8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank"></a> 
@@ -51,7 +51,7 @@ I thrive on continuous learning, staying updated with the latest technologies an
 
 
 <!-- **<p align="left">  💻 Tech stack 🛠 </p>** -->
-**Tech stack** 
+**🛠 Tech stack** 
 <div align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  height="40" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" > <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  height="40" > <!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="40" > -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="40" > <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="40" > <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40" > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  height="40" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40" > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40" > <!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="40" >  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="40" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  height="40" > --> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40"> <!-- <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" height="40" > <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" height="40" > --> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40" > <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" height="40" >
