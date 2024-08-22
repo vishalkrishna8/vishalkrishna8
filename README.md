@@ -10,7 +10,7 @@
 </a> -->
 
 
-**<p align="center">I am one of the Top Contributers [![committers.top badge](https://user-badge.committers.top/india/vishalkrishna8.svg)](https://user-badge.committers.top/india/vishalkrishna8) on GitHub from India. </p>**
+<!-- **<p align="center">I am one of the Top Contributers [![committers.top badge](https://user-badge.committers.top/india/vishalkrishna8.svg)](https://user-badge.committers.top/india/vishalkrishna8) on GitHub from India. </p>** -->
  
 
 
