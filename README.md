@@ -1,5 +1,5 @@
-  <p align="center">  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Full-Stack+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
+<!-- <p align="center">  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Full-Stack+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p> 
 
 
 
@@ -82,4 +82,4 @@ I thrive on continuous learning, staying updated with the latest technologies an
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting 😊;&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p>
+<!-- <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting 😊;&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">  </p> -->
